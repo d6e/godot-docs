@@ -100,6 +100,7 @@ In Rider:
 
 - Set **MSBuild version** to **.NET Core**.
 - Install the **Godot support** plugin.
+    * **File** -> **Settings** -> search the Marketplace for "Godot Support" -> **Install**
 
 Visual Studio Code
 ~~~~~~~~~~~~~~~~~~
